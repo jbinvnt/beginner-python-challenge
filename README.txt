@@ -1,5 +1,5 @@
 # Beginner K-12 Python Coding Challenge
-Scenario: A board game company needs your help printing out boards for their battleship games. They have three tasks for you.
+Scenario: A board game company needs your help printing out boards for their battleship games. They have three tasks for you. The starter code is in the [battleship.py](battleship.py) file.
 
 ## Part 1: Simple Battleship
 *Write your code for this part inside the function defined as `def simple_battleship():`.*
