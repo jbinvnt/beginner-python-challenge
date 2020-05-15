@@ -4,7 +4,7 @@ Scenario: A board game company needs your help printing out boards for their bat
 ## Part 1: Simple Battleship
 *Write your code for this part inside the function defined as `def simple_battleship():`.*
 
-The simple battleship board has a 12 by 12 grid with each square marked by a number and letter pair. Its structure is shown below (the `...` indicates a continuation, so don't have your code actually print the dots!):
+The simple battleship board has a 9 by 9 grid with each square marked by a number and letter pair. Its structure is shown below (the `...` indicates a continuation, so don't have your code actually print the dots!):
 ```
 a1 a2 a3 ...
 b1 b2
